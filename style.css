@@ -267,6 +267,12 @@ div.header {
 	display: inline;
 }
 
+#linkbox {
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 1.5em;
+}
+
 @media screen and (max-width: 768px) {
 	#header {
 		padding: 3em 1.5em 1em 1.5em;
