@@ -207,6 +207,7 @@ header:before {
 div.header {
 	justify-content: space-around;
 	flex-direction: column;
+	width: 60%;
 }
 
 .centered {
@@ -272,6 +273,10 @@ div.header {
 	#header p {
 		font-size: 1em;
 		line-height: inherit;
+	}
+
+	div.header {
+		width: 90%;
 	}
 }
 
